@@ -3,7 +3,7 @@
 
 <img src="reference/scanned_folder.png" width="600">
 
-> Input: Unnamed PDF(s) directly from scanner
+> Input: Unnamed PDF(s) directly from scanner (highlighted)
 
 <img src="reference/renamed_folder.png" width="600">
 
@@ -12,3 +12,8 @@
 <img src="reference/reference_list.png" width="600">
 
 > Output: Excel file showing results of OCR search
+
+Other files in directory:
+>poppler
+>tesseract
+>Contacts - excel file of company names to match with
