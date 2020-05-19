@@ -1,3 +1,3 @@
 # OCR for PDF file organizing
  
-![Image description](OCR/reference/scanned_folder.png)
+<img src="reference/scanned_folder.png" width="600">
